@@ -1,0 +1,49 @@
+@charset "ISO-8859-1";
+
+* {
+	color: #ECF39E;
+}
+.nav-back-color {
+	background-color: #132A13;
+}
+.icon-margin-right {
+	margin-right: 5px;
+}
+.icon-margin-left {
+	margin-left: 5px;
+}
+.margin-top {
+	margin-top: 10px;
+}
+.margin-bottom {
+	margin-bottom: 10px;
+}
+.padding-top {
+	padding-top: 10px;
+}
+.padding-bottom {
+	padding-bottom: 10px;
+}
+.back {
+	background: linear-gradient(180deg, #90A955, #ECF39E, white); 
+}
+.flex-end {
+	display: flex;
+	justify-content: center;
+	align-items: flex-end;
+}
+.back-r {
+	background: none; /* Ensures no background is applied */
+    border: none;
+}
+.input {
+	background-color: #ECF39E;
+}
+.flex {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.mail {
+	background: linear-gradient(90deg, #DB4437, #4285F4, #F4B400, #0F9D58); 
+}
