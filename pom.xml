@@ -46,7 +46,6 @@
 		</dependency>
 
 		<!-- Pdf File Dependency -->
-
 		<dependency>
 			<groupId>com.itextpdf</groupId>
 			<artifactId>itextpdf</artifactId>
@@ -54,7 +53,6 @@
 		</dependency>
 
 		<!-- Word File Dependency -->
-
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi-ooxml</artifactId>
@@ -62,7 +60,6 @@
 		</dependency>
 
 		<!-- QR code dependency -->
-
 		<dependency>
 			<groupId>com.google.zxing</groupId>
 			<artifactId>core</artifactId>
@@ -76,13 +73,11 @@
 		</dependency>
 
 		<!-- Email Dependency -->
-
 		<dependency>
 			<groupId>com.sun.mail</groupId>
 			<artifactId>jakarta.mail</artifactId>
 			<version>2.0.1</version>
 		</dependency>
-
 	</dependencies>
 	<build>
 		<finalName>thinksync</finalName>
